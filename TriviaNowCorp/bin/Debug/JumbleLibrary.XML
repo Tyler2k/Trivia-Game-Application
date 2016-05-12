@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>JumbleLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:JumbleLibrary.JumbleCreator">
+            <summary>
+            JumbleCreator class allows a random Jumbled word to be generated for use in word games.
+            </summary>
+        </member>
+        <member name="M:JumbleLibrary.JumbleCreator.#ctor">
+            <summary>
+            The constructor generates a random word, called a Jumble, which can be accessed by using one of the methods of the class.
+            </summary>
+        </member>
+        <member name="M:JumbleLibrary.JumbleCreator.GetWordDescription">
+            <summary>
+            This method returns the description of the randomly generated word, e.g. city or country.
+            </summary>
+            <returns>string containing the description of the Jumble</returns>
+        </member>
+        <member name="M:JumbleLibrary.JumbleCreator.GetUnScrambledWord">
+            <summary>
+            This method returns the unscrambled version of the random Jumble.
+            </summary>
+            <returns>an array of strings containing the unscrambled Jumble</returns>
+        </member>
+        <member name="M:JumbleLibrary.JumbleCreator.GetScrambledWord">
+            <summary>
+            This method returns the scrambled version of the random Jumble.
+            </summary>
+            <returns>an array of strings containing the scrambled Jumble</returns>
+        </member>
+        <member name="T:JumbleLibrary.Randomizer">
+            <summary>
+            This class generates a set of random numbers
+            </summary>
+        </member>
+        <member name="M:JumbleLibrary.Randomizer.GenerateRandomNumbers(System.Int32)">
+            <summary>
+            GenerateRandomnumbers will generate a specified number of random numbers starting from index 0.
+            </summary>
+            <param name="NumberDesired">The number of desired integers</param>
+            <returns>Returns an array of integers</returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,6 @@
+c:\users\spyke\documents\visual studio 2015\Projects\TriviaNowCorp\TriviaNowCorp\bin\Debug\TriviaNowCorp.exe.config
+c:\users\spyke\documents\visual studio 2015\Projects\TriviaNowCorp\TriviaNowCorp\obj\Debug\TriviaNowCorp.csprojResolveAssemblyReference.cache
+c:\users\spyke\documents\visual studio 2015\Projects\TriviaNowCorp\TriviaNowCorp\bin\Debug\TriviaNowCorp.exe
+c:\users\spyke\documents\visual studio 2015\Projects\TriviaNowCorp\TriviaNowCorp\bin\Debug\TriviaNowCorp.pdb
+c:\users\spyke\documents\visual studio 2015\Projects\TriviaNowCorp\TriviaNowCorp\obj\Debug\TriviaNowCorp.exe
+c:\users\spyke\documents\visual studio 2015\Projects\TriviaNowCorp\TriviaNowCorp\obj\Debug\TriviaNowCorp.pdb
